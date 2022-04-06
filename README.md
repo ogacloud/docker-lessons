@@ -1,2 +1,2 @@
-# docker-lessons
+# LESSON ONE
 Repository For Exploring Docker 
