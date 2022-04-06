@@ -1,4 +1,4 @@
-# LESSON ONE
+# LESSON TWO
 ## DOCKERIZING APPS
 This Branch will be updated as we make progress while exploring docker and docker-compose to pull in different services and environments
 
@@ -8,4 +8,4 @@ This Branch will be updated as we make progress while exploring docker and docke
 - Setup Docker compose for the Dockerfile 
 
 ### QUESTION
-Write a python script that performs any simple operation and output result to the console.
+Setup a python script that uses a database to perform some actions 
